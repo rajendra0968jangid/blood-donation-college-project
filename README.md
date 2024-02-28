@@ -1,2 +1,7 @@
-# blood-donation-college-project
-blood donation college project
+# online-blood-bank-management-system-in-php
+
+#user panel
+
+#admin panel
+
+#employee panel
